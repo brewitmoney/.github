@@ -1,6 +1,6 @@
 ![Header](../hero-brewit.png)
 
-# Brewit - The Delegation & Automation Layer for Onchain Accounts
+# Brewit - Delegation & Automation Layer for Onchain Accounts
 
 Brewit is the ultimate crypto account to kickstart your journey into the world of digital assets. Explore integration with Brewit Account using our delegation and automation layer built on top of it. 
 

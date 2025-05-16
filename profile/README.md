@@ -1,4 +1,4 @@
-![Header](./hero-brewit.png)
+![Header](../hero-brewit.png)
 
 # Brewit - The Delegation & Automation Layer for Onchain Accounts
 
